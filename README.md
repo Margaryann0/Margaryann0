@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Hayr 👋
 
-<!--
-**Margaryann0/Margaryann0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+$ cat status.txt
+Identity: Cybersecurity & Programming Student
+Primary OS: Fedora Linux & Kali Linux (Dual-boot / Setup)
+Focus: Algorithms, Python & Security Fundamentals
 
-Here are some ideas to get you started:
+💻 System & Tools
+🐧 Linux: Fedora & Kali Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐍 Language: Python
+
+🛠️ Tools: Git, Bash & Terminal
+
+📚 Learning: College Algorithms & Data Structures
+
+🎯 What I'm Doing Right Now
+🎓 Solving programming & algorithm problems for college
+
+🐧 Working with Linux command line every day
+
+🛡️ Step-by-step exploring Cybersecurity & Ethical Hacking
+
+🎬 Fan of Mr. Robot, The Mentalist & Good Comedy Movies
