@@ -1,6 +1,6 @@
 # Hi, I'm Hayr 👋
 
-$ cat status.txt
+
 Identity: Cybersecurity & Programming Student
 Primary OS: Fedora Linux & Kali Linux (Dual-boot / Setup)
 Focus: Algorithms, Python & Security Fundamentals
